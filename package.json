@@ -1,6 +1,6 @@
 {
   "name": "react-native-style-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package allows you to create compatible styles from your predefined styles and prop styles.",
   "main": "index.js",
   "scripts": {

@@ -1,1 +1,3 @@
-export createStyles from "./styleHelper/component";
+import createStyles from "./styleHelper/component";
+
+export default createStyles;

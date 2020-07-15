@@ -1,0 +1,24 @@
+{
+  "name": "react-native-style-helper",
+  "version": "1.0.0",
+  "description": "This package allows you to create compatible styles from your predefined styles and prop styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myzel394/react-native-style-helper.git"
+  },
+  "keywords": [
+    "react-native-styles",
+    "react-native-components",
+    "react-native-props"
+  ],
+  "author": "Myzel394",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Myzel394/react-native-style-helper/issues"
+  },
+  "homepage": "https://github.com/Myzel394/react-native-style-helper#readme"
+}
